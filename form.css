@@ -1,0 +1,43 @@
+body{
+  background-color: rgb(149, 206, 220);
+  padding: 0;
+  border: 0;
+  box-shadow: 0;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  background-repeat: no-repeat;
+  }
+
+.heading{
+  text-align: center;
+  background-color: antiquewhite;
+  padding: 5px;
+  border-radius: 10px;
+  display: inline-block;
+  position: center;
+}
+
+.Sign-up{
+  text-align: center;
+  background-color: aliceblue;
+  padding: 3px;
+  border-radius: 6px;
+  display: block;
+  border-bottom: 20px;
+
+}
+
+.base {
+justify-content: center;
+}
+
+.dont{
+  color: bisque;
+  text-decoration: solid;
+  font-size: 18px;
+}
+
+#email{
+box-sizing: ;
+}
